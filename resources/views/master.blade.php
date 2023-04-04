@@ -17,7 +17,6 @@
     </div>
 
     <button id="button" onclick="repo()" class="mt-10 font-black px-4 py-2 rounded-full bg-gradient-to-r from-green-400 to-blue-500 hover:ring-1 hover:ring-cyan-300 hover:shadow-sm hover:shadow-teal-400">Testing Button</button>
-
 </body>
 <script>
     function repo() {
